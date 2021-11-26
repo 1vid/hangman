@@ -15,14 +15,14 @@ How to run:
 - play
 
 Rules:
-You have to guess the word. 
-Enter letters one by one until you win or loose. 
-You can make only 7 mistakes.
-Ё == Е, Й == И
-Repeats not considered as a mistake.
+You have to guess the word.   
+Enter letters one by one until you win or loose.   
+You can make only 7 mistakes.  
+Ё == Е, Й == И  
+Repeats not considered as a mistake.  
 
-New word add:
-You can change guessed words. 
-Just add or delete words in file hangman/data/words.txt
-Each word have to be typed with CapsLock.
-Each word have to be typed on new string.
+New word add:  
+You can change guessed words.   
+Just add or delete words in file hangman/data/words.txt  
+Each word have to be typed with CapsLock.  
+Each word have to be typed on new string.  
