@@ -18,7 +18,7 @@ How to run:
 - play
 
 
-Rules:
+Rules:  
 You have to guess the word.   
 Enter letters one by one until you win or loose.   
 You can make only 7 mistakes.  
