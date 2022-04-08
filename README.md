@@ -30,6 +30,6 @@ Repeats not considered as a mistake.
 
 # New word add:  
 You can change guessed words.   
-Just add or delete words in file [/data/words.txt](https://github.com/Kucherjashka/hangman/commit/3f020f2bc890b379ee763ec02314881fc7aa1af9)
+Just add or delete words in file [/data/words.txt]
 Each word have to be typed with CapsLock.  
 Each word have to be typed on new string.  
