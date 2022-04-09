@@ -1,7 +1,7 @@
 # Hangman   
 Console Ruby game. When you start the game, the computer guesses a random word from [/data/words.txt](https://github.com/Kucherjashka/hangman/commit/3f020f2bc890b379ee763ec02314881fc7aa1af9).
 
-You need to guess the chosen word by entering Russian letters one by one. Guessed letters will be shown above the gallows drawing, hidden letters are displayed with "__". The erroneous letters are shown below the drawing of the gallows. In this case, the letters already entered earlier are not taken into account, the letters "e" and "ё" are considered one letter, as well as the letters "и" - "й". There are 7 errors allowed in the game. Each time you make a mistake, the error counter will increase by 1 and the gallows pattern will change depending on how close you are to losing. If you lose, the hidden word will be shown.
+You need to guess the chosen word by entering Russian letters one by one. Guessed letters will be shown above the gallows drawing, hidden letters are displayed with "__". The erroneous letters are shown below the drawing of the gallows. In this case, the letters already entered earlier are not taken into account, the letters "e" and "ё" are considered one letter, as well as the letters "и" - "й". There are 7 errors allowed in the game. Each time you make a mistake, the error counter will increase by 1 and the gallows pattern will change depending on how close you are to losing. If you lose, the hidden word will be shown. You can find out more about the game on the [Wiki Hangman page.](https://en.wikipedia.org/wiki/Hangman_(game))
 
 
 # Language:
@@ -14,9 +14,14 @@ You need to guess the chosen word by entering Russian letters one by one. Guesse
 
 
 # How to run:
-- save file 8ball.rb on your computer.
+- save folder /hangman on your computer.
 - open Terminal at directory where you save programm file.
-- type: 'ruby 8ball.rb'
+- type: 
+
+```html
+bundle exec ruby main.rb
+```
+
 - play
 
 
